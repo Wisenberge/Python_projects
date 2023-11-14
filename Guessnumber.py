@@ -8,6 +8,6 @@ Response =  ""
 while(not guesscheck): 
     print("Is your number", Guess, end=" ")
     Response = input("Enter l for low, h for high, or c for correct guess")
-    if(Response = l)
-        Guess = 
+    if(Response == 'l'):
+        Guess = 50
     
