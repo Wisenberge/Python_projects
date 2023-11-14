@@ -10,4 +10,5 @@ while(not guesscheck):
     Response = input("Enter l for low, h for high, or c for correct guess")
     if(Response == 'l'):
         Guess = 50
+        print("testtinngnggg")
     
