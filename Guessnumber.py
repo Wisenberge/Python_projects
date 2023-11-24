@@ -19,7 +19,7 @@ while(not guesscheck):
         print("Game over. Your secret number was", Guess)
         guesscheck = 1
     else:
-        print("Sorry, I did not understand your input.   ")
+        print("Sorry, I did not understand your input.")
 
         
     
